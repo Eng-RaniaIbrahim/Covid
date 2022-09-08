@@ -1,0 +1,416 @@
+@media(max-width:750px){
+    .home .nav ul{
+        display:none;
+    }
+
+}
+@media(max-width:500px){
+    .home .nav ul{
+        display:none;
+    }
+  
+    .chcorona{
+        width:100%;
+        flex-direction:column-reverse; 
+    }
+    .CORONA .child-CORONA .img{
+        width:100%;
+    }
+    .CORONA .child-CORONA  .chcorona .COVID-19 {
+        text-align: left;
+    }
+    .CORONA .child-CORONA  .chcorona .VIRUS{
+        text-align: left; 
+    }
+    .CORONA .child-CORONA .chcorona .child1-child2 div{
+
+        width:100%;
+        text-align: center;
+    }
+    .CORONA .child-CORONA .chcorona  .head1{
+        font-size: 10px;
+    }
+    .child-CORONAVIRUS{
+        width:100%;
+        text-align: center;
+    }
+    .CORONAVIRUS .COVID  .child-CORONAVIRUS  h2{
+        font-size:25px;
+    }
+    .CORONAVIRUS .COVID  .child-CORONAVIRUS h1 {
+        font-size: 45px;
+    }
+    .list{
+        width:100%;
+    }
+    .TRANSMISSION .TRANSMISSION-child .COVID-19 h5{
+        font-size: 18px;
+    }
+    .TRANSMISSION .TRANSMISSION-child .COVID-19 h6{
+        font-size: 45px;
+    }
+    .TRANSMISSION .TRANSMISSION-child .COVID-19 p{
+        font-size: 15px;
+    }
+    .TRANSMISSION .TRANSMISSION-child .TRANSMISSION-img .child {
+        width:100%;
+      margin-bottom: 10px;
+    }
+    .TRANSMISSION-button{
+        width:80%;
+    }
+    .SYMPTOMS .SYMPTOMS-child .CORONAVIRUS{
+        text-align: center;
+    }
+    .SYMPTOMS .SYMPTOMS-child .CORONAVIRUS h2{
+        font-size:19px;
+     
+    }
+    .SYMPTOMS .SYMPTOMS-child .Fever .Fever-child{
+        width:100%;  
+    }
+    .stay .stay-child .call{
+        width:100%;
+    }
+   
+    .stay .stay-child .button-blue{
+        width:100%; 
+        text-align: left; 
+    }
+     
+    .stay .stay-child .button-blue button{
+        width: 75%;
+    }
+    .PREVENTION2-child .ADVICE p{
+        font-size:14px;
+    }
+    .PREVENTION2  .PREVENTION2-child .Wash .child2 {
+        width: 100%;
+    }
+    .PREVENTION2  .PREVENTION2-child .Wash .child2 img{
+        width:30%;
+    }
+    .PREVENTION2  .PREVENTION2-child .check-button .but1 button{
+        width: 65%;
+    }
+    .PREVENTION2  .PREVENTION2-child .check-button .but2 button{
+        width: 65%;
+    }
+    .step-child .section-child{
+        width:100%;
+  
+    }
+    .step-child .step-img{
+        width:100%;
+        text-align:center;
+    }
+    .step-child .step-img img {
+        width:100%;
+    }
+    .Follow-child .wash-hands h1 {
+        font-size: 40px;
+    
+    }
+    .Follow-child .Follow-imgs .Hands {
+        width: 40%;
+    }
+    .blue .childblue{
+        width:100%;
+    }
+    .blue .childblue2{
+        width:100%;
+    }
+    .PROTECT-child .group .child8 {
+        width: 100%;
+    } 
+    .FREQUENTLY-child .list {
+        width: 100%;
+    }
+    .list-group2 {
+        width: 100%;
+    }
+    .rECENT .child{
+        width:100%
+    }
+    .qUICK .qUICK-covid div {
+        width: 100%;
+    }
+   
+}
+/*===========================================================*/
+@media(max-width:393px){
+    .CORONA .child-CORONA .chcorona h1 {
+        font-size: 40px
+    }
+    .CORONA {
+        padding-top:60px;
+    }
+
+    .TRANSMISSION .TRANSMISSION-child .COVID-19 h6 {
+        font-size: 30px
+    } 
+    .TRANSMISSION-button button {
+        width: 100%
+    }
+    .CORONAVIRUS2 h1 {
+        font-size: 30px
+    }
+    .PREVENTION2-child .ADVICE h1 {
+        font-size: 30px
+    }  
+    .PROTECT-child .group .child8 h1 {
+        font-size: 15px;
+    }
+    .Follow-child .Follow-imgs .Hands {
+        width: 50%;
+    }
+    .PREVENTION2 .PREVENTION2-child .check-button .but2 button {
+        width:85%;
+    }
+        .PREVENTION2 .PREVENTION2-child .check-button .but1 button
+        {
+            width:85%;
+        }
+        .PREVENTION2 .PREVENTION2-child .check-button .but1 button span{
+            font-size:13px;
+        }
+     
+    }
+  
+
+/*===========================================================*/
+@media(max-width:280px){
+    .CORONAVIRUS .COVID .child-CORONAVIRUS  h1 {
+        font-size: 30px;
+    }
+    
+
+.TRANSMISSION-button span {
+    font-size: 13px;
+}
+
+.PREVENTION2 .PREVENTION2-child .Wash .child2 img {
+    width:50%;
+}
+button{
+    width:100%;
+}
+
+span {
+    font-size: 15px;
+  
+}
+.list-group-item:first-child {
+    font-size: 10px;
+}
+.Follow-child .wash-hands h1 {
+    font-size: 25px;
+}
+.PROTECT-child .group .child8 h1 {
+    font-size: 10px;
+}
+.FREQUENTLY-child .child h1 {
+    font-size: 20px;
+}
+}
+/*===========================================================*/
+@media(max-width:540px) {
+
+    .chcorona {
+    width: 100%;
+    padding-top:25px;
+  
+    }
+    .CORONA .child-CORONA .img {
+        width: 100%;
+    }
+    .CORONA .child-CORONA .chcorona h1 {
+        font-size: 40px;
+    }
+    .child-CORONAVIRUS {
+
+        width: 100%;
+        text-align: center;
+    }
+    .list {
+        width: 80%;
+    }
+    .TRANSMISSION .TRANSMISSION-child .TRANSMISSION-img .child {
+        width: 80%;
+        margin-top: 10px;
+    }
+    .TRANSMISSION-button button {
+        width: 100%;
+    }
+    .TRANSMISSION-button span {
+        font-size: 10px;
+    }
+    .TRANSMISSION-button i {
+        font-size: 10px;
+    }
+    .Fever-child {
+        width: 80%;
+    }
+    .stay .stay-child .call {
+        width: 80%;
+    }
+    .stay .stay-child .button-blue {
+        width: 80%;
+    }
+    .PREVENTION2 .PREVENTION2-child .Wash .child2 {
+        width: 80%;
+    }
+    .PREVENTION2 .PREVENTION2-child .Wash .child2 img {
+        width: 40%;
+    }
+    .PREVENTION2 .PREVENTION2-child .check-button .but1 button {
+        width: 80%;
+    }
+    .PREVENTION2 .PREVENTION2-child .check-button .but2 button {
+        width: 80%;
+    }
+    .step-child .section-child {
+        width: 100%;
+    }
+    .step-child .step-img {
+        width: 100%;
+    }
+    .Follow-child .Follow-imgs .Hands {
+        width: 40%;
+    }
+    .blue .childblue {
+        width: 100%;
+    }
+    .blue .childblue2 {
+        width: 100%;
+    }
+    .PROTECT-child .group .child8 {
+        width: 90%;
+    }
+    .rECENT .child {
+        width: 90%;
+    }
+    .qUICK .qUICK-covid div {
+        width:90%;
+    }
+}
+/*======================================================*/
+@media(max-width:912px){
+    .chcorona {
+        width: 100%;
+        padding-top:60px;
+      
+        }
+        .home .nav ul{
+            display:none;
+        }
+        .CORONA .child-CORONA .img {
+            width: 100%;
+        }
+        .CORONA .child-CORONA .chcorona h1 {
+            font-size: 60px;
+        }
+        .child-CORONAVIRUS {
+    
+            width: 100%;
+            text-align: center;
+        }
+        .list {
+            width: 80%;
+        }
+        .TRANSMISSION .TRANSMISSION-child .TRANSMISSION-img .child img{
+            width: 80%;
+        }
+        .TRANSMISSION .TRANSMISSION-child .TRANSMISSION-img .child {
+            width: 80%;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .TRANSMISSION-button button {
+            width: 100%;
+        }
+        .TRANSMISSION-button span {
+            font-size: 20px;
+        }
+        .TRANSMISSION-button i {
+            font-size: 10px;
+        }
+        .Fever-child {
+            width: 80%;
+        }
+        .stay .stay-child .call {
+            width: 80%;
+        }
+        .stay .stay-child .button-blue {
+            width: 80%;
+        }
+        .PREVENTION2 .PREVENTION2-child .Wash .child2 {
+            width: 80%;
+        }
+        .PREVENTION2 .PREVENTION2-child .Wash .child2 img {
+            width: 40%;
+        }
+        .PREVENTION2 .PREVENTION2-child .check-button .but1 button {
+            width: 70%;
+        }
+        .PREVENTION2 .PREVENTION2-child .check-button .but2 button {
+            width: 70%;
+        }
+        .step-child .section-child {
+            width: 100%;
+        }
+        .step-child .step-img {
+            width: 100%;
+        }
+        .Follow-child .Follow-imgs .Hands {
+            width: 40%;
+        }
+        .blue .childblue {
+            width: 100%;
+        }
+        .blue .childblue2 {
+            width: 100%;
+        }
+        .PROTECT-child .group .child8 {
+            width: 90%;
+        }
+        .rECENT .child {
+            width: 90%;
+        }
+        .qUICK .qUICK-covid div {
+            width:90%;
+        }
+}
+/*==============================================*/
+@media(max-width:768px){
+    .TRANSMISSION-button span {
+        font-size: 15px;
+    }
+}
+/*==============================================*/
+@media(max-width:414px){
+    .stay .stay-child .call {
+        width: 100%;
+    }
+    .PROTECT-child .group .child8 h1 {
+        font-size: 15px;
+    }
+}
+/*==============================================*/
+@media(max-width:414px){
+    .PREVENTION2 .PREVENTION2-child .check-button .but1 button span {
+        font-size: 11px;
+    }
+    .PREVENTION2 .PREVENTION2-child .check-button .but1 button i{
+        font-size: 18px;  
+    }
+    .PROTECT-child .group .child8 h1 {
+        font-size: 13px;
+    }
+}
+/*==============================================*/
+@media(max-width:1024px){
+    .home .nav ul{
+        display:none;
+    }
+}
